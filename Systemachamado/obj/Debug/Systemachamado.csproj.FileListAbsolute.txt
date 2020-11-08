@@ -1,0 +1,266 @@
+C:\Users\PC\Desktop\Systema de chamado\Systemachamado\Systemachamado\bin\Debug\Systemachamado.exe.config
+C:\Users\PC\Desktop\Systema de chamado\Systemachamado\Systemachamado\bin\Debug\Systemachamado.exe
+C:\Users\PC\Desktop\Systema de chamado\Systemachamado\Systemachamado\bin\Debug\Systemachamado.pdb
+C:\Users\PC\Desktop\Systema de chamado\Systemachamado\Systemachamado\obj\Debug\Systemachamado.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Systema de chamado\Systemachamado\Systemachamado\obj\Debug\Systemachamado.FormTelaSplash.resources
+C:\Users\PC\Desktop\Systema de chamado\Systemachamado\Systemachamado\obj\Debug\Systemachamado.Properties.Resources.resources
+C:\Users\PC\Desktop\Systema de chamado\Systemachamado\Systemachamado\obj\Debug\Systemachamado.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Systema de chamado\Systemachamado\Systemachamado\obj\Debug\Systemachamado.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Systema de chamado\Systemachamado\Systemachamado\obj\Debug\Systemachamado.exe
+C:\Users\PC\Desktop\Systema de chamado\Systemachamado\Systemachamado\obj\Debug\Systemachamado.pdb
+C:\Users\PC\Desktop\Systema de chamado\Systemachamado\Systemachamado\obj\Debug\Systemachamado.FormTelaLogin.resources
+C:\Users\PC\Desktop\Systema de chamado\Systemachamado\Systemachamado\obj\Debug\Systemachamado.FormTelaPrincipal.resources
+C:\Users\whiley reis\Desktop\Systema de chamado\Systemachamado\Systemachamado\bin\Debug\Systemachamado.exe.config
+C:\Users\whiley reis\Desktop\Systema de chamado\Systemachamado\Systemachamado\bin\Debug\Systemachamado.exe
+C:\Users\whiley reis\Desktop\Systema de chamado\Systemachamado\Systemachamado\bin\Debug\Systemachamado.pdb
+C:\Users\whiley reis\Desktop\Systema de chamado\Systemachamado\Systemachamado\obj\Debug\Systemachamado.csprojAssemblyReference.cache
+C:\Users\whiley reis\Desktop\Systema de chamado\Systemachamado\Systemachamado\obj\Debug\Systemachamado.FormTelaLogin.resources
+C:\Users\whiley reis\Desktop\Systema de chamado\Systemachamado\Systemachamado\obj\Debug\Systemachamado.FormTelaPrincipal.resources
+C:\Users\whiley reis\Desktop\Systema de chamado\Systemachamado\Systemachamado\obj\Debug\Systemachamado.FormTelaSplash.resources
+C:\Users\whiley reis\Desktop\Systema de chamado\Systemachamado\Systemachamado\obj\Debug\Systemachamado.Properties.Resources.resources
+C:\Users\whiley reis\Desktop\Systema de chamado\Systemachamado\Systemachamado\obj\Debug\Systemachamado.csproj.GenerateResource.cache
+C:\Users\whiley reis\Desktop\Systema de chamado\Systemachamado\Systemachamado\obj\Debug\Systemachamado.csproj.CoreCompileInputs.cache
+C:\Users\whiley reis\Desktop\Systema de chamado\Systemachamado\Systemachamado\obj\Debug\Systemachamado.exe
+C:\Users\whiley reis\Desktop\Systema de chamado\Systemachamado\Systemachamado\obj\Debug\Systemachamado.pdb
+C:\Users\whiley reis\Desktop\Systema de chamado\Systemachamado\Systemachamado\obj\Debug\Systemachamado.FormCriarTiket.resources
+E:\FamiliaReis-PC\Nova pasta\Systema de chamado\Systemachamado\Systemachamado\bin\Debug\Systemachamado.exe.config
+E:\FamiliaReis-PC\Nova pasta\Systema de chamado\Systemachamado\Systemachamado\bin\Debug\Systemachamado.exe
+E:\FamiliaReis-PC\Nova pasta\Systema de chamado\Systemachamado\Systemachamado\bin\Debug\Systemachamado.pdb
+E:\FamiliaReis-PC\Nova pasta\Systema de chamado\Systemachamado\Systemachamado\obj\Debug\Systemachamado.csprojAssemblyReference.cache
+E:\FamiliaReis-PC\Nova pasta\Systema de chamado\Systemachamado\Systemachamado\obj\Debug\Systemachamado.FormCriarTiket.resources
+E:\FamiliaReis-PC\Nova pasta\Systema de chamado\Systemachamado\Systemachamado\obj\Debug\Systemachamado.FormTelaLogin.resources
+E:\FamiliaReis-PC\Nova pasta\Systema de chamado\Systemachamado\Systemachamado\obj\Debug\Systemachamado.FormTelaPrincipal.resources
+E:\FamiliaReis-PC\Nova pasta\Systema de chamado\Systemachamado\Systemachamado\obj\Debug\Systemachamado.FormTelaSplash.resources
+E:\FamiliaReis-PC\Nova pasta\Systema de chamado\Systemachamado\Systemachamado\obj\Debug\Systemachamado.Properties.Resources.resources
+E:\FamiliaReis-PC\Nova pasta\Systema de chamado\Systemachamado\Systemachamado\obj\Debug\Systemachamado.csproj.GenerateResource.cache
+E:\FamiliaReis-PC\Nova pasta\Systema de chamado\Systemachamado\Systemachamado\obj\Debug\Systemachamado.csproj.CoreCompileInputs.cache
+E:\FamiliaReis-PC\Nova pasta\Systema de chamado\Systemachamado\Systemachamado\obj\Debug\Systemachamado.exe
+E:\FamiliaReis-PC\Nova pasta\Systema de chamado\Systemachamado\Systemachamado\obj\Debug\Systemachamado.pdb
+E:\FamiliaReis-PC\Nova pasta\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.exe.config
+E:\FamiliaReis-PC\Nova pasta\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.exe
+E:\FamiliaReis-PC\Nova pasta\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.pdb
+E:\FamiliaReis-PC\Nova pasta\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csprojAssemblyReference.cache
+E:\FamiliaReis-PC\Nova pasta\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormCriarTiket.resources
+E:\FamiliaReis-PC\Nova pasta\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaLogin.resources
+E:\FamiliaReis-PC\Nova pasta\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaPrincipal.resources
+E:\FamiliaReis-PC\Nova pasta\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaSplash.resources
+E:\FamiliaReis-PC\Nova pasta\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.Properties.Resources.resources
+E:\FamiliaReis-PC\Nova pasta\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.GenerateResource.cache
+E:\FamiliaReis-PC\Nova pasta\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.CoreCompileInputs.cache
+E:\FamiliaReis-PC\Nova pasta\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.exe
+E:\FamiliaReis-PC\Nova pasta\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.pdb
+E:\FamiliaReis-PC\Nova pasta\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaCadastroUser.resources
+C:\Users\whiley reis\Desktop\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.exe.config
+C:\Users\whiley reis\Desktop\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.exe
+C:\Users\whiley reis\Desktop\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.pdb
+C:\Users\whiley reis\Desktop\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csprojAssemblyReference.cache
+C:\Users\whiley reis\Desktop\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaCadastroUser.resources
+C:\Users\whiley reis\Desktop\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormCriarTiket.resources
+C:\Users\whiley reis\Desktop\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaLogin.resources
+C:\Users\whiley reis\Desktop\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaPrincipal.resources
+C:\Users\whiley reis\Desktop\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaSplash.resources
+C:\Users\whiley reis\Desktop\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.Properties.Resources.resources
+C:\Users\whiley reis\Desktop\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.GenerateResource.cache
+C:\Users\whiley reis\Desktop\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.CoreCompileInputs.cache
+C:\Users\whiley reis\Desktop\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.exe
+C:\Users\whiley reis\Desktop\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.pdb
+C:\Users\CDL SALVADOR\Desktop\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.exe.config
+C:\Users\CDL SALVADOR\Desktop\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.exe
+C:\Users\CDL SALVADOR\Desktop\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.pdb
+C:\Users\CDL SALVADOR\Desktop\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csprojAssemblyReference.cache
+C:\Users\CDL SALVADOR\Desktop\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaCadastroUser.resources
+C:\Users\CDL SALVADOR\Desktop\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormCriarTiket.resources
+C:\Users\CDL SALVADOR\Desktop\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaLogin.resources
+C:\Users\CDL SALVADOR\Desktop\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaPrincipal.resources
+C:\Users\CDL SALVADOR\Desktop\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaSplash.resources
+C:\Users\CDL SALVADOR\Desktop\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.Properties.Resources.resources
+C:\Users\CDL SALVADOR\Desktop\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.GenerateResource.cache
+C:\Users\CDL SALVADOR\Desktop\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.CoreCompileInputs.cache
+C:\Users\CDL SALVADOR\Desktop\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.exe
+C:\Users\CDL SALVADOR\Desktop\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.pdb
+C:\Users\CDL SALVADOR\Desktop\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Google.Protobuf.dll
+C:\Users\CDL SALVADOR\Desktop\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\bin\Debug\MySql.Data.xml
+C:\Users\CDL SALVADOR\Desktop\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.CopyComplete
+E:\FamiliaReis-PC\Nova pasta\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\bin\Debug\MySql.Data.dll
+E:\FamiliaReis-PC\Nova pasta\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Google.Protobuf.dll
+E:\FamiliaReis-PC\Nova pasta\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\bin\Debug\MySql.Data.xml
+E:\FamiliaReis-PC\Nova pasta\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.CopyComplete
+E:\FamiliaReis-PC\Nova pasta\Beckap softwer\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.exe.config
+E:\FamiliaReis-PC\Nova pasta\Beckap softwer\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.exe
+E:\FamiliaReis-PC\Nova pasta\Beckap softwer\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.pdb
+E:\FamiliaReis-PC\Nova pasta\Beckap softwer\SystemachamadoModuloSupport\Systemachamado\bin\Debug\MySql.Data.dll
+E:\FamiliaReis-PC\Nova pasta\Beckap softwer\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Google.Protobuf.dll
+E:\FamiliaReis-PC\Nova pasta\Beckap softwer\SystemachamadoModuloSupport\Systemachamado\bin\Debug\MySql.Data.xml
+E:\FamiliaReis-PC\Nova pasta\Beckap softwer\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csprojAssemblyReference.cache
+E:\FamiliaReis-PC\Nova pasta\Beckap softwer\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaCadastroUser.resources
+E:\FamiliaReis-PC\Nova pasta\Beckap softwer\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormCriarTiket.resources
+E:\FamiliaReis-PC\Nova pasta\Beckap softwer\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaLogin.resources
+E:\FamiliaReis-PC\Nova pasta\Beckap softwer\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaPrincipal.resources
+E:\FamiliaReis-PC\Nova pasta\Beckap softwer\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaSplash.resources
+E:\FamiliaReis-PC\Nova pasta\Beckap softwer\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.Properties.Resources.resources
+E:\FamiliaReis-PC\Nova pasta\Beckap softwer\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.GenerateResource.cache
+E:\FamiliaReis-PC\Nova pasta\Beckap softwer\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.CoreCompileInputs.cache
+E:\FamiliaReis-PC\Nova pasta\Beckap softwer\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.CopyComplete
+E:\FamiliaReis-PC\Nova pasta\Beckap softwer\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.exe
+E:\FamiliaReis-PC\Nova pasta\Beckap softwer\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.pdb
+E:\WHILEY REIS\PROJETO\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csprojAssemblyReference.cache
+E:\WHILEY REIS\PROJETO\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaCadastroUser.resources
+E:\WHILEY REIS\PROJETO\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormCriarTiket.resources
+E:\WHILEY REIS\PROJETO\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaLogin.resources
+E:\WHILEY REIS\PROJETO\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaPrincipal.resources
+E:\WHILEY REIS\PROJETO\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaSplash.resources
+E:\WHILEY REIS\PROJETO\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.Properties.Resources.resources
+E:\WHILEY REIS\PROJETO\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.GenerateResource.cache
+E:\WHILEY REIS\PROJETO\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.CoreCompileInputs.cache
+E:\WHILEY REIS\PROJETO\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.exe
+E:\WHILEY REIS\PROJETO\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.pdb
+E:\WHILEY REIS\PROJETO\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.exe.config
+E:\WHILEY REIS\PROJETO\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.exe
+E:\WHILEY REIS\PROJETO\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.pdb
+E:\WHILEY REIS\PROJETO\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\bin\Debug\MySql.Data.dll
+E:\WHILEY REIS\PROJETO\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Google.Protobuf.dll
+E:\WHILEY REIS\PROJETO\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\bin\Debug\MySql.Data.xml
+E:\WHILEY REIS\PROJETO\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.CopyComplete
+C:\Users\CDL Salvador\Desktop\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\bin\Debug\MySql.Data.dll
+E:\FamiliaReis-PC\Nova pasta\Nova pasta\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.exe.config
+E:\FamiliaReis-PC\Nova pasta\Nova pasta\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.exe
+E:\FamiliaReis-PC\Nova pasta\Nova pasta\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.pdb
+E:\FamiliaReis-PC\Nova pasta\Nova pasta\SystemachamadoModuloSupport\Systemachamado\bin\Debug\MySql.Data.dll
+E:\FamiliaReis-PC\Nova pasta\Nova pasta\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Google.Protobuf.dll
+E:\FamiliaReis-PC\Nova pasta\Nova pasta\SystemachamadoModuloSupport\Systemachamado\bin\Debug\MySql.Data.xml
+E:\FamiliaReis-PC\Nova pasta\Nova pasta\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csprojAssemblyReference.cache
+E:\FamiliaReis-PC\Nova pasta\Nova pasta\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaCadastroUser.resources
+E:\FamiliaReis-PC\Nova pasta\Nova pasta\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormCriarTiket.resources
+E:\FamiliaReis-PC\Nova pasta\Nova pasta\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaLogin.resources
+E:\FamiliaReis-PC\Nova pasta\Nova pasta\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaPrincipal.resources
+E:\FamiliaReis-PC\Nova pasta\Nova pasta\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaSplash.resources
+E:\FamiliaReis-PC\Nova pasta\Nova pasta\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.Properties.Resources.resources
+E:\FamiliaReis-PC\Nova pasta\Nova pasta\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.GenerateResource.cache
+E:\FamiliaReis-PC\Nova pasta\Nova pasta\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.CoreCompileInputs.cache
+E:\FamiliaReis-PC\Nova pasta\Nova pasta\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.CopyComplete
+E:\FamiliaReis-PC\Nova pasta\Nova pasta\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.exe
+E:\FamiliaReis-PC\Nova pasta\Nova pasta\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.pdb
+C:\Users\CDL Salvador\Desktop\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.exe.config
+C:\Users\CDL Salvador\Desktop\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.exe
+C:\Users\CDL Salvador\Desktop\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.pdb
+C:\Users\CDL Salvador\Desktop\SystemachamadoModuloSupport\Systemachamado\bin\Debug\MySql.Data.dll
+C:\Users\CDL Salvador\Desktop\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Google.Protobuf.dll
+C:\Users\CDL Salvador\Desktop\SystemachamadoModuloSupport\Systemachamado\bin\Debug\MySql.Data.xml
+C:\Users\CDL Salvador\Desktop\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csprojAssemblyReference.cache
+C:\Users\CDL Salvador\Desktop\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaCadastroUser.resources
+C:\Users\CDL Salvador\Desktop\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormCriarTiket.resources
+C:\Users\CDL Salvador\Desktop\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaLogin.resources
+C:\Users\CDL Salvador\Desktop\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaPrincipal.resources
+C:\Users\CDL Salvador\Desktop\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaSplash.resources
+C:\Users\CDL Salvador\Desktop\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.Properties.Resources.resources
+C:\Users\CDL Salvador\Desktop\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.GenerateResource.cache
+C:\Users\CDL Salvador\Desktop\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.CoreCompileInputs.cache
+C:\Users\CDL Salvador\Desktop\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.CopyComplete
+C:\Users\CDL Salvador\Desktop\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.exe
+C:\Users\CDL Salvador\Desktop\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.pdb
+F:\Área de Trabalho\Softwer Beckap\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.exe.config
+F:\Área de Trabalho\Softwer Beckap\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.exe
+F:\Área de Trabalho\Softwer Beckap\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.pdb
+F:\Área de Trabalho\Softwer Beckap\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Google.Protobuf.dll
+F:\Área de Trabalho\Softwer Beckap\SystemachamadoModuloSupport\Systemachamado\bin\Debug\MySql.Data.xml
+F:\Área de Trabalho\Softwer Beckap\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csprojAssemblyReference.cache
+F:\Área de Trabalho\Softwer Beckap\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaCadastroUser.resources
+F:\Área de Trabalho\Softwer Beckap\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormCriarTiket.resources
+F:\Área de Trabalho\Softwer Beckap\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaLogin.resources
+F:\Área de Trabalho\Softwer Beckap\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaPrincipal.resources
+F:\Área de Trabalho\Softwer Beckap\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaSplash.resources
+F:\Área de Trabalho\Softwer Beckap\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.Properties.Resources.resources
+F:\Área de Trabalho\Softwer Beckap\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.GenerateResource.cache
+F:\Área de Trabalho\Softwer Beckap\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.CoreCompileInputs.cache
+F:\Área de Trabalho\Softwer Beckap\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.CopyComplete
+F:\Área de Trabalho\Softwer Beckap\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.exe
+F:\Área de Trabalho\Softwer Beckap\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.pdb
+F:\Área de Trabalho\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.exe.config
+F:\Área de Trabalho\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.exe
+F:\Área de Trabalho\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.pdb
+F:\Área de Trabalho\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Google.Protobuf.dll
+F:\Área de Trabalho\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\bin\Debug\MySql.Data.xml
+F:\Área de Trabalho\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csprojAssemblyReference.cache
+F:\Área de Trabalho\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaCadastroUser.resources
+F:\Área de Trabalho\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormCriarTiket.resources
+F:\Área de Trabalho\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaLogin.resources
+F:\Área de Trabalho\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaPrincipal.resources
+F:\Área de Trabalho\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaSplash.resources
+F:\Área de Trabalho\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.Properties.Resources.resources
+F:\Área de Trabalho\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.GenerateResource.cache
+F:\Área de Trabalho\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.CoreCompileInputs.cache
+F:\Área de Trabalho\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.CopyComplete
+F:\Área de Trabalho\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.exe
+F:\Área de Trabalho\Systema de chamado\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.pdb
+C:\Users\whiley\Desktop\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.exe.config
+C:\Users\whiley\Desktop\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.exe
+C:\Users\whiley\Desktop\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.pdb
+C:\Users\whiley\Desktop\SystemachamadoModuloSupport\Systemachamado\bin\Debug\MySql.Data.dll
+C:\Users\whiley\Desktop\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Google.Protobuf.dll
+C:\Users\whiley\Desktop\SystemachamadoModuloSupport\Systemachamado\bin\Debug\MySql.Data.xml
+C:\Users\whiley\Desktop\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csprojAssemblyReference.cache
+C:\Users\whiley\Desktop\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaCadastroUser.resources
+C:\Users\whiley\Desktop\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormCriarTiket.resources
+C:\Users\whiley\Desktop\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaLogin.resources
+C:\Users\whiley\Desktop\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaPrincipal.resources
+C:\Users\whiley\Desktop\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaSplash.resources
+C:\Users\whiley\Desktop\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.Properties.Resources.resources
+C:\Users\whiley\Desktop\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.GenerateResource.cache
+C:\Users\whiley\Desktop\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.CoreCompileInputs.cache
+C:\Users\whiley\Desktop\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.CopyComplete
+C:\Users\whiley\Desktop\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.exe
+C:\Users\whiley\Desktop\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.pdb
+F:\Área de Trabalho\Softwer Beckap\RESERVA\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.exe.config
+F:\Área de Trabalho\Softwer Beckap\RESERVA\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.exe
+F:\Área de Trabalho\Softwer Beckap\RESERVA\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.pdb
+F:\Área de Trabalho\Softwer Beckap\RESERVA\SystemachamadoModuloSupport\Systemachamado\bin\Debug\MySql.Data.dll
+F:\Área de Trabalho\Softwer Beckap\RESERVA\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Google.Protobuf.dll
+F:\Área de Trabalho\Softwer Beckap\RESERVA\SystemachamadoModuloSupport\Systemachamado\bin\Debug\MySql.Data.xml
+F:\Área de Trabalho\Softwer Beckap\RESERVA\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csprojAssemblyReference.cache
+F:\Área de Trabalho\Softwer Beckap\RESERVA\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaCadastroUser.resources
+F:\Área de Trabalho\Softwer Beckap\RESERVA\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormCriarTiket.resources
+F:\Área de Trabalho\Softwer Beckap\RESERVA\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaLogin.resources
+F:\Área de Trabalho\Softwer Beckap\RESERVA\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaPrincipal.resources
+F:\Área de Trabalho\Softwer Beckap\RESERVA\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaSplash.resources
+F:\Área de Trabalho\Softwer Beckap\RESERVA\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.Properties.Resources.resources
+F:\Área de Trabalho\Softwer Beckap\RESERVA\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.GenerateResource.cache
+F:\Área de Trabalho\Softwer Beckap\RESERVA\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.CoreCompileInputs.cache
+F:\Área de Trabalho\Softwer Beckap\RESERVA\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.CopyComplete
+F:\Área de Trabalho\Softwer Beckap\RESERVA\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.exe
+F:\Área de Trabalho\Softwer Beckap\RESERVA\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.pdb
+C:\Users\CDL\Desktop\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.exe.config
+C:\Users\CDL\Desktop\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.exe
+C:\Users\CDL\Desktop\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.pdb
+C:\Users\CDL\Desktop\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Google.Protobuf.dll
+C:\Users\CDL\Desktop\SystemachamadoModuloSupport\Systemachamado\bin\Debug\MySql.Data.xml
+C:\Users\CDL\Desktop\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csprojAssemblyReference.cache
+C:\Users\CDL\Desktop\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaCadastroUser.resources
+C:\Users\CDL\Desktop\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormCriarTiket.resources
+C:\Users\CDL\Desktop\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaLogin.resources
+C:\Users\CDL\Desktop\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaPrincipal.resources
+C:\Users\CDL\Desktop\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaSplash.resources
+C:\Users\CDL\Desktop\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.Properties.Resources.resources
+C:\Users\CDL\Desktop\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.GenerateResource.cache
+C:\Users\CDL\Desktop\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.CoreCompileInputs.cache
+C:\Users\CDL\Desktop\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.CopyComplete
+C:\Users\CDL\Desktop\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.exe
+C:\Users\CDL\Desktop\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.pdb
+C:\Users\CDL\Desktop\BECKAP SISTEMA\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csprojAssemblyReference.cache
+C:\Users\CDL\Desktop\BECKAP SISTEMA\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaCadastroUser.resources
+C:\Users\CDL\Desktop\BECKAP SISTEMA\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormCriarTiket.resources
+C:\Users\CDL\Desktop\BECKAP SISTEMA\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaLogin.resources
+C:\Users\CDL\Desktop\BECKAP SISTEMA\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaPrincipal.resources
+C:\Users\CDL\Desktop\BECKAP SISTEMA\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.FormTelaSplash.resources
+C:\Users\CDL\Desktop\BECKAP SISTEMA\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.Properties.Resources.resources
+C:\Users\CDL\Desktop\BECKAP SISTEMA\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.GenerateResource.cache
+C:\Users\CDL\Desktop\BECKAP SISTEMA\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.CoreCompileInputs.cache
+C:\Users\CDL\Desktop\BECKAP SISTEMA\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.exe
+C:\Users\CDL\Desktop\BECKAP SISTEMA\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.pdb
+C:\Users\CDL\Desktop\BECKAP SISTEMA\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.exe.config
+C:\Users\CDL\Desktop\BECKAP SISTEMA\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.exe
+C:\Users\CDL\Desktop\BECKAP SISTEMA\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Systemachamado.pdb
+C:\Users\CDL\Desktop\BECKAP SISTEMA\SystemachamadoModuloSupport\Systemachamado\bin\Debug\Google.Protobuf.dll
+C:\Users\CDL\Desktop\BECKAP SISTEMA\SystemachamadoModuloSupport\Systemachamado\bin\Debug\MySql.Data.xml
+C:\Users\CDL\Desktop\BECKAP SISTEMA\SystemachamadoModuloSupport\Systemachamado\obj\Debug\Systemachamado.csproj.CopyComplete
+C:\Users\CDL\Desktop\SystemachamadoModuloSupport\Systemachamado\bin\Debug\itextsharp.dll
+C:\Users\CDL\Desktop\SystemachamadoModuloSupport\Systemachamado\bin\Debug\itextsharp.xml
